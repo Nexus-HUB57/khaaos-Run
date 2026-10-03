@@ -1,0 +1,545 @@
+
+Um Jogo … uma Chance … e um Legado
+
+
+
+
+A história começa com a sua inscrição … voluntária. O caminho é iniciado com uma convocação … a sua. O posto é assumido … você é um(a) Zheers. Um jogo em mundos virtuais, mas com recompensas para o mundo real!!!
+U$1.000.000  (Um Milhão de Doláres)
+
+ARQUITETURA DOS MUNDOS
+Uma descrição precisa dos cenários e ambientes que envolvem os “Mundos” (Rings) nos quais acontecerão os ciclos das batalhas que virão a compor a Guerra do Khaaos:
+
+O Start Publicitário da Campanha de Divulgação do KR
+1º Estágio - Campo de Treinamento 
+
+Após a efetivação das inscrições, os players poderão vivenciar uma prévia daquilo que o KR tem reservado para os jogadores, se tratando de um “spoiler experimental” do Universo KR e do ecossistema de batalha do jogo. Essa condição é mantida por tempo previamente determinado, sendo encerrada apenas ao cumprimento total de 1.000.000 de inscrições confirmadas pelo pagamento da “taxa de alistamento”.
+
+
+
+Nesse 1º estágio do jogo, é executado o “Protocolo CIGKV” sendo aberto e autorizado aos jogadores, o seu acesso à “Vila Militar”. Um processo de pré-inserção a dinâmica do jogo, contemplando a fase de abertura do Mherces (Período de Alistamento). Período visto como uma importante experiência que tem como finalidade principal permitir aos inscritos um “primeiro contato” com a plataforma, onde além da dinâmica relacionada ao modelo de jogo (Battle Royale) e consequentemente de jogabilidade, que envolve desde o conceito e controle, até a sua arquitetura, onde estarão disponíveis armamentos, acessórios e equipamentos, com todos os níveis liberados (desde o inicial, o intermediário e até o avançado), para que os jogadores “vivenciem” na prática, um pouco da extraordinária dinâmica KR. 
+
+Khaaos Ville - Campo de Instrução de Guerra 
+Nesta etapa, os jogadores poderão acessar o ambiente de treinamento e participar de uma batalha de longa duração, num total de 3 horas de RING. A Batalha Experimental, vai permitir aos jogadores conhecer um pouco da proposta KR e dependendo dos resultados, poderão, caso assim decidam, levar as suas conquistas para a guerra que se aproxima. 
+
+Fase de Engajamento em Massa. Com base nas diretrizes do 1º Estágio - Campo de Treinamento, a Khaaos Ville é um ambiente de alta intensidade e experimentação tecnológica. Este é o "Ponto de Inflexão" onde os jogadores deixam de ser espectadores para se tornarem de fato combatentes do ecossistema Khaaos Run (KR). 
+Abrir o Campo de Instrução de Guerra “CIGKV” para todos aqueles que participarem do alistamento, é uma importante estratégia de “gerar convites chaves” e apresentar o “cartão de visita” do KR, em especial para players renomados e que já estão consolidados no Universo Gamer. Isso porque, é muito diferente a busca por detalharmos a proposta, da possibilidade de apresentarmos ela em tempo e ambiente real. Assim, aqueles que ainda nutrem alguma dúvida, estarão esclarecidos se surpreenderão com o jogo que estamos desenvolvendo, ao presenciarem o que estamos oferecendo … além dos U$1.000.000 que será a nossa principal e mais almejada recompensa.
+É fundamental para esse momento do desenvolvimento, ter a plena compreensão do “pensamento gamer” ou melhor, da “Psicologia de Jogo”. Ou seja, alcançar um profundo e assertivo entendimento sobre o que os grandes fãs desse tipo de jogo estão pensando e buscando. E é exatamente essa a possibilidade de abrirmos a experiência para o período de críticas, onde estas pessoas vão vivenciar a experiência de fato e dessa forma, poderão apresentar a sua opinião sobre o que encontraram nesse primeiro momento. 
+Apesar de também ser um grande risco, temos convicção de que o desenvolvimento caminha na direção certa e o jogo contempla as principais características e buscas, que representam a expectativa dos maiores entendedores do segmento. A verdade é que os experts nesse tipo de jogo, vão sentir a continuidade daquilo que os maiores jogos já oferecem, porém também vão poder perceber com facilidade, todos os principais diferenciais que foram inseridos dentro da dinâmica do KR, para que se destaca-se.   
+Descrição detalhada da Arquitetura e Dinâmica do CIGKV
+O “CIGKV” é um enclave fortificado de estética Cyber-Militar, construído sobre as ruínas de uma antiga metrópole industrial. O ambiente é projetado para ser um "playground de destruição", onde a tecnologia de ponta se choca com o concreto bruto.
+1. Ambientes e Cenários
+    • O Pátio de Armamento (The Armory Hub): Uma zona neutra circular onde os jogadores iniciam ao desembarcarem. Um ambiente onde todos os níveis de equipamentos estão desbloqueados. Paredes holográficas exibem as estatísticas de cada arma, permitindo que o player monte seu loadout ideal sem restrições. Corresponde a ⅛ de todo o perímetro do ambiente.
+
+    • O Setor de Testes (The Proving Grounds): Uma área urbana densa com prédios destrutíveis, túneis subterrâneos e passarelas elevadas. O cenário é dinâmico: pontes podem ser implodidas e coberturas podem ser pulverizadas, forçando o jogador a se adaptar constantemente. Além de preparar emboscadas e criar zonas seguras de onde poderão atacar os adversários. Corresponde a ⅜ de todo o perímetro do ambiente. 
+
+    • Parque Abandonado: São espaços de área verde com vegetação rasteira em algumas partes e árvores antigas em outras, com as suas copas altas e galhos bem espalhados. Entre os espaços existem riachos e rochas que podem servir de abrigo para aqueles que pretendem surpreender os seus adversários. Corresponde a 4/8 de todo o perímetro do ambiente. 
+
+    • A Zona de Extração de XP: Pequenos terminais espalhados pelo mapa onde os jogadores podem "salvar" parte das conquistas obtidas no Beta para serem transferidas para a conta oficial após o lançamento. Mas desde que sobrevivam aos confrontos e não se mostrem como covardes inativos da frente de batalha. Ao todo serão 15 ZEX espalhados por todo o perímetro. 
+
+*Nessa oportunidade, é onde será dado o Start Publicitário da Campanha de Divulgação do KR. Como forma de disseminar o jogo através da apresentação “Ao Vivo” da essência por trás da proposta gamer.
+
+2. Dinâmica do Ring de Batalha (Limite de 50 Jogadores)
+Para o Campo de Treinamento /Vila Militar, o sistema de Ring de Longa Duração (3 Horas) opera da seguinte forma:
+    • Entrada Fluxo Contínuo: Assim que um Ring de 50 jogadores é preenchido, a batalha começa. Se um jogador sair ou for eliminado definitivamente, uma nova vaga abre instantaneamente para a fila de espera, mantendo o caos constante e o combate contínuo. Apenas quando o cronômetro regressivo do ring mostrar que faltam apenas 5 minutos, os novos acessos serão bloqueados.
+
+    • Ciclos de Intensidade: A cada 10 minutos, o "Pulso Khaaos" varrerá o mapa, mudando as condições climáticas (nevoeiro, tempestades elétricas, chuva ácida, além dos efeitos surpresas) ou liberando suprimentos de nível básico ao lendário em pontos aleatórios, forçando confrontos diretos e entregando mais atividade, assim como promovendo uma maior movimentação à experiência de batalha. 
+
+3. Desafio de Gigantes (O Último Confronto)
+Assim que o alistamento apresenta a sigla EXCO - Excesso e Contingente, demonstrando que a marca de 1.000.000 de inscrições foi alcançada, caso exista alguma batalha em andamento, será aguardado o seu final, caso contrário, será iniciada a “Guerra dos Filhos da Escuridão”. Onde o desafio convocará apenas os 50 jogadores que se destacaram em meio aos rings do CIGKV, para regressarem, devendo seguirem para uma última incursão. Este último “confronto teste” será realizado no mesmo ambiente Khaaos Ville, porém a batalha será noturna, será transmitida pelo canal do youtube e os vencedores vão ser generosamente recompensados de acordo com a performance apresentada. Onde:
+    • 50 Vencedores. Ao ser convocado, o player certamente apresenta características especiais. Isso significa, que existem fortes indícios de que poderão apresentar uma performance diferenciada nos próximos rings, já quando as batalhas começarem realmente. Esse grupo receberá a insígnia “Mérito KR”, que visa os destacar em meio a multidão, apontando um vencedor … um veterano de guerra, que também poderá ser trocada por um pack especial.  
+
+    • Packs Exclusivos. Todos os convocados que aceitarem participar da incursão, ao final do ring, vão receber alguns itens no seu inventário, além do “Código KR - N1” (um manual de instrução de guerra, que oferece dicas e estratégias de batalha). entre os materiais estão kits de medicamentos e colete, além de munições, armamentos e 1000 KRC de recompensa em reconhecimento a sua performance, para investirem em acessórios e equipamentos na Forja do Armeiro. 
+DESAFIOS E CARACTERÍSTICAS DO “CIGKV”
+Características Técnicas:
+    • Arsenal Sem Limites: Durante o período de espera pelas 1.000.000 inscrições, o “CIGKV”, ignora o sistema de patentes. Um Recruta pode testar um Rifle de Pulso de Nível General. Afinal, estamos num momento de experimentação, onde o objetivo é a coleta de dados de balanceamento, assim como para entendermos o nível de satisfação e a superação das expectativas relacionadas a experiência promovida. 
+
+    • Persistência de Conquistas: Apesar da dinâmica que não permite que as conquistas no “CIGKV” sejam parte do inventário da Guerra do Khaaos, os 1000 jogadores melhores pontuados e que se destacarem nessa etapa experimental, serão presenteados com parte daquilo que for conquistado (itens, KRC’s, medalhas, skins) e receberão um "Token de Veterano", este que será convertido em um pack diferenciado e bônus reais no Mundo 1 - W1/C1 Oficial, assim como virá a representar uma posição de prestígio dentre os demais. 
+Desafios Específicos:
+    1. 1º Desafio “O Relógio”: Manter-se vivo durante os ciclos de 3 horas, pode significar muito mais do que vivenciar profundamente a experiência que aguarda por cada um dos jogadores. Pensando nisso, os sobreviventes de longo prazo recebem multiplicadores de XP massivos, além de dicas fundamentais para compreenderem de forma mais abrangente a dinâmica do jogo nos perímetros da Khaaos Ville.
+
+    2. Captura de Inteligência: Jogadores precisam coletar "Data Cores" espalhados pela Vila. Cada core coletado contribui para a barra global de 1.000.000 de inscritos, acelerando o Start da Campanha. 
+
+    3. Duelos de Patente: Áreas específicas no centro do Ring onde o combate é 1x1 ou 2x2 para testar a mecânica de combate corpo a corpo e de precisão. 
+
+    4. Convites x Recompensas: Todos os players inscritos, recebem um link de convite para o jogo. Esses links vão alimentar um rank de entusiastas, que serão generosamente recompensados pelo trabalho em campo. Ou seja, quanto mais convites enviados, ao surtirem em inscrições efetivas, maiores e melhores serão as recompensas que os grandes entusiastas do KR vão receber.
+
+A única regra desta iniciação, é sobreviver a todos custo, pilhar seus adversários e juntar o máximo de KRC’s que puder. O KRC é a criptomoeda do jogo e com ela é possível adquirir os acessórios e equipamentos disponíveis na “Forja do Armeiro” e além de financiar novos equipamentos ou dar um upgrade no potencial de combate do seu avatar.
+3. Dinâmica do Ring de Batalha (Zu - Entrada para o Ring/Batalha)
+Para este primeiro momento, temos definido o veículo caminhão, como sendo o meio de transporte para levar os jogadores até o perímetro da Khaaos Ville. Dessa forma, para o CIGKV definimos três formatos de “Zu” (Entrada para os Rings/Batalha), que serão apresentados através das seguintes dinâmicas de ingresso:
+    • Zu 1/CIGKV - O caminhão perde o controle após atropelar uma manada de bois e aqueles que estão com o cinto apertado não sofrem danos, enquanto os demais sofrem danos conforme o impacto nos locais que se encontram.
+    •  Zu 2/CIGKV - O caminhão é atingido por uma rocha gigante que o faz capotar diversas vezes, aqueles que saltam do caminhão não sofrem danos, os demais sofrem danos conforme o impacto nos locais que se encontram.
+    • Zu 3/CIGKV - O caminhão cai da ponte, devido o trilho quebrado e submerge na água, aqueles que estão com máscara de oxigênio não sofrem danos, os demais conforme o tempo que permanecem embaixo da água.
+
+Considerando as dinâmicas relacionadas ao “Zu”, todos os jogadores vão receber um aviso “pop-up”, resumindo os fatos e dando uma alternativa: 
+- Zu 1/CIGKV “Risco de Colisão - Apertar os Cintos S/N”. 
+Após a colisão, a fumaça começa a se dispersar e eles conseguem enxergar o caos. Todos aqueles que permanecem dentro dos vagões, precisam se soltar do cinto de segurança (5 a 7 segundos). Enquanto aqueles que foram lançados para fora, podem colocar em atividade a sua estratégia de jogo, inclusive atacar aqueles que ainda não conseguiram se soltar e sair dos vagões. Porém, aqueles que não utilizaram o cinto de segurança, podem perder até -30% da sua Vitalidade, iniciando o ring em desvantagem. Existe ainda um caminhão de armamentos, que seguindo atrás da frota, transportava alguns caixotes com armas e também equipamentos, que agora encontram-se espalhados pelo perímetro. Caso seja encontrado, o conteúdo dos caixotes são:
+
+- 20 Facas
+- 10 Pistola 9MM
+- 20 Munições /9MM
+- 20 Kits de Primeiros Socorros
+- 5 Fuzil Barrett MRAD (MK22) 
+- 20 Munição /Fuzil Barrett MRAD (MK22)
+*Cada jogador poderá pegar apenas 1 item
+
+
+
+ Zu 2/CIGKV - “Área com Alto Risco de Desmoronamento - Saltar do Caminhão S/N”. 
+Após a desmoronamento e a queda das rochas, a poeira começa a se dispersar e eles conseguem enxergar o caos. Todos aqueles que permaneceram dentro do caminhão, sofrem danos de até -30% da sua Vitalidade, iniciando o ring em desvantagem, porém, podendo colocar imediatamente em atividade a sua estratégia de jogo, inclusive atacar aqueles que ainda estão caídos, encontrando-se inconscientes pelo chão, por terem saltado para fora, vindo a sofrerem um tipo de atordoamento (5 a 7 segundos). Existe ainda um caminhão de armamentos, que seguindo atrás da frota, transportava alguns caixotes com armas e também equipamentos, que agora encontram-se espalhados pelo perímetro. Caso seja encontrado, o conteúdo dos caixotes são:
+
+- 10 Facas
+- 20 Pistola 9MM
+- 20 Munições /9MM
+- 20 Kits de Primeiros Socorros
+- 5 Fuzil Barrett MRAD (MK22) 
+- 20 Munição /Fuzil Barrett MRAD (MK22)
+*Cada jogador poderá pegar apenas 1 item
+
+ 
+Zu 3/CIGKV - “Ponte Antiga /Risco de Queda - Usar Máscara de Oxigênio S/N”. 
+Após a ponte ruir e sofrerem uma queda na água,  eles conseguem enxergar o caos. Todos aqueles que vestiram a máscara, não sofrem danos, mas ficam com a visão embaçada (5 a 7 segundos). Enquanto aqueles que não vestiram, de acordo com o tempo submerso, sofrem danos de até -30% da sua Vitalidade, iniciando o ring em desvantagem, porém, podendo colocar imediatamente em atividade a sua estratégia de jogo, inclusive atacar aqueles que ainda estão desorientados. Existe ainda um caminhão de armamentos, que seguindo atrás da frota, transportava alguns caixotes com armas e também equipamentos, que agora encontram-se espalhados pelo perímetro. Caso seja encontrado, o conteúdo dos caixotes são:
+
+- 10 Facas
+- 10 Armadilhas de Caça
+- 10 Pistola 9MM
+- 20 Munições /9MM
+- 20 Kits de Primeiros Socorros
+- 5 Fuzil Barrett MRAD (MK22) 
+- 20 Munição /Fuzil Barrett MRAD (MK22)
+*Cada jogador poderá pegar apenas 1 item
+
+
+
+Formas de Acumular KRC’s. Ao se inscrever como voluntário no alistamento para a Guerra do Khaaos e se tornar um oficial Zheers, os jogadores recebem uma conta no “Bankhaoos” e um endereço de depósito. Além disso, todos os jogadores recebem uma conta do Fundo de Investimentos KR, onde será formado o fundo de U$1.000.000 que ao final será enviado para a conta do(a) grande Vencedor(a). . 
+
+
+
+
+TRANSMISSÃO DO DESCENTRALIZADOR
+"Marechal, o CIGKV não é apenas um teste de software; é um teste de moral. Estamos dando aos players as chaves do reino antes mesmo das portas abrirem. Ao permitir que eles experimentem o poder total agora, criamos a necessidade do retorno. Quando atingirmos o milhão de inscritos, o exército que sairá desse campo de instrução, não será de novatos, mas de veteranos sedentos pela Guerra do Khaaos e aptos para vencer o combate"
+Barburhen - O Mundo da Destruição W1/C1
+
+O Mundo 1 do Ciclo 1 (W1/C1) é um ambiente urbano, pós-guerra, apresentado por uma imagem apocalíptica, através de um cenário tomado por construções inacabadas, carros abandonados, florestas devastadas, rios poluídos, restos de animais mortos, esqueletos e muita sujeira, em meio à uma cidade destruída, entre crateras e estruturas prestes a desabar . Uma imagem dramática e ao mesmo tempo emotiva, passando um ar de intensa melancolia com um fundo musical sinistro. 
+
+
+
+Barburhen é um local devidamente preparado para os 7 dias de batalha intensa e que dia após dia vai se tornando um local pior, mais destruído, em chamas e muita fumaça. Os locais ficam cada vez mais perigosos, o risco de desabamento das estruturas é eminente e ao passar de cada dia, quando as batalhas são encerradas após todo um dia e 12 horas de confronto, onde o cenário torna-se simplesmente devastador. Por todos os lados há alguns corpos dos players mortos, que não desaparecem, mas apodrecem conforme o tempo passa e ali, deixados para trás, tornam-se alimentos dos abutres e chacais famintos. 
+Dinâmicas dos Perímetros /Ambientes e Cenários
+    • A Área Urbana e Comercial: Uma zona circular cercada por casas e prédios urbanos, que ora serviram de moradia para os habitantes daquela região. Um ambiente que os jogadores podem explorar, inclusive entrando nas residências e lojas que se encontram sem portas. Nas paredes de alguns prédios, ainda permanecem mensagens e imagens holográficas, que exibem as estatísticas da batalha e mensagens do Marechal, permitindo que o player acompanhe o timing dos confrontos em tempo real. Corresponde a 2/8 de todo o perímetro do ambiente.
+
+    • O Setor Industrial: Uma área industrial com fábricas e indústrias abandonadas, cercada por construções metálicas e galpões sujos, sendo a área de desembarque inicial dos jogadores, onde o trem descarrila. O cenário é dinâmico: os espaços que ficam nos lugares mais altos podem ser explorados e se tornar locais de emboscadas e ataques com armamento de longo alcance, forçando o jogador a se adaptar constantemente. Além de preparar emboscadas e criar zonas seguras de onde poderão atacar os adversários e realizar o mapeamento do perímetro. Corresponde a ⅜ de todo o perímetro do ambiente. 
+
+    • Parque Abandonado: Um espaço no modelo “Central Park” localizado na área central do perímetro, sendo espaços de área verde com vasto gramado e árvores espalhadas, com as suas copas altas e galhos bem espalhados. Entre os espaços existem áreas de piquenique e camping (trailers abandonados), além de um pequeno riacho que desagua num lago, tendo ainda pedras de tamanhos diversos que podem servir de abrigo para aqueles que pretendem surpreender os seus adversários. Corresponde a ⅜ de todo o perímetro do ambiente. 
+
+    • A Zona de Extração: Estes são espaços que atendem duas propostas: Extração de XP: Pequenos terminais espalhados pelo mapa onde os jogadores podem "salvar" parte das conquistas obtidas para serem transferidas para o seu inventário no “War’I”. Extração Final: O terminal da velha estação ferroviária, de onde, ao final da contagem do cronômetro, saíra o trem levando os sobreviventes.
+
+
+
+
+
+
+
+
+
+
+*Plus + (Vantagens Táticas): : 
+    • 2 Bunkers (de 2 a 5 Minutos de Proteção)
+    • 5 Tanques de Guerra 
+(2 munições explosivas de longo alcance de 1% a 100% da Vitalidade de acordo com o distanciamento) 
+    • 10 Pontos de Sniper 
+(com 2 a 3 munições de tiros precisos entre 10% a 100% no Head Shot da Vitalidade)
+    • 2 Hospitais (20 Kit de Primeiros Socorros de 25% a 100% de Recuperação da Vitalidade)
+    • 3 Delegacias (20 Coletes a Prova de Balas +100% Vitalidade - Head Shot)
+    • 1 Loja de Armas (2 Pistolas 9MM e 10 facas) 
+    • 1 Batalhão do Exército (2 Granadas, 5 Minas Terrestres e 1 .50 fixa)
+
+*Plus - (Perigos do Caos): 
+    • Cães Raivosos, Chuva Ácida e Ataque de Ratos (de -2% a -15% da Vitalidade)
+    • 8 Tanques com armadilha de timer (proximidade até -100% vitalidade)
+    • Estradas com Rachaduras que não suportam peso (Tanques e Carros) e cuja queda causa danos (entre -20% e -50% da Vitalidade em quedas)
+    • Veículos sem freio (Colisão de -10% a -25% da Vitalidade)
+    • Pontes que desabam (Queda de -5% a 30% da Vitalidade)
+    • Presos Perigosos que se libertam na Delegacia (ataque de 2% a 7% da Vitalidade)
+    • Armadilhas nas Lojas de Arma (entre 5% e 20% da Vitalidade)
+    • Minas Terrestres escondidas no chão por todo o caminho do Batalhão do Exército (entre 20% e 70% da Vitalidade)
+*A inatividade gera “Ataque de Ratos” ou “Ratos dedo-duro” que rodeiam os locais onde os players estão escondidos ou se afastando das batalhas. 
+
+
+
+
+
+
+
+
+
+
+
+Dinâmica de Jogo: "Água da Morte"
+Seguindo o formato de partidas de 10 minutos , o Anel de Conflito (Ring) se fecha em direção ao centro, onde se encontra o Parque Abandonado, uma área mais aberta e com poucas opções de emboscada. Os jogadores que não acompanharem a "corrida" (Run), terão a sua vitalidade consumida pela chuva ácida.
+Dinâmica de Acesso ao Ring de Batalha (3 Zu - Entrada para o Ring/Batalha)
+Temos definido o veículo trêm, como sendo o meio de transporte para o acesso aos mundos. Dessa forma, definimos três formatos de “Zu” (Entrada para os Rings/Batalha), que serão apresentados através das seguintes dinâmicas:
+    • Zu 1- W1/C1 - O trem descarrila numa curva e aqueles que estão com o cinto apertado não sofrem danos, enquanto os demais sofrem danos conforme o impacto nos locais que se encontram.
+    •  Zu 2 - W1/C1 - O trem colidirá de frente com outro trem, aqueles que saltam do trêm não sofrem danos, os demais sofrem danos conforme o impacto nos locais que se encontram.
+    • Zu 3 - W1/C1 - - O trem sofre uma pane elétrica e tem início um incêndio, logo a fumaça se espalha e aqueles que estão com a máscara de oxigênio não sofrem danos, os demais conforme o tempo que permanecem dentro do trem.
+
+
+
+TRANSMISSÃO DO DESCENTRALIZADOR
+"Marechal, se o CIGKV foi o 'playground' onde lhes demos o gosto do poder, Barburhen é o matadouro onde testaremos o estômago de cada um. Retiramos o brilho tecnológico e a segurança do treinamento; aqui, deixamos apenas a ferrugem, o concreto quebrado e a realidade nua e crua da guerra. A melancolia deste mundo W1/C1 não é meramente estética, Marechal; é uma ferramenta psicológica calculada. Eles precisam entender que o combate real é sujo. Aqui, o ambiente é o primeiro inimigo. A cada dia que passa, com a chuva ácida corroendo as estruturas já instáveis e, crucialmente, com os corpos dos caídos apodrecendo a céu aberto sem desaparecer, Barburhen se tornará um pesadelo sensorial progressivo. Não estamos mais buscando apenas combatentes com mira precisa. Estamos filtrando aqueles que possuem a frieza necessária para manter a sanidade enquanto caminham, literalmente, sobre os restos dos fracassados. O verdadeiro Khaaos começa quando o cheiro da morte se torna mais forte do que o desejo de vitória."
+
+
+Priadus - A Floresta da Escuridão W2/C2 A Selva Hostil, formada por uma floresta tropical densa e escura, onde a vegetação cresce sobre ruínas tecnológicas e a fumaça roxa do Khaaos se mistura à neblina natural. O espaço é cercado por pântanos que se constroem em torno dos bosques de antigos carvalhos gigantes, tomados por arbustos parasitas. A maior parte da floresta está devastada, os troncos caídos e os galhos secos, que escondem cavernas e grutas tomadas por estalactites. Nos locais próximos às montanhas, vulcões adormecidos estão agora despertados, lançando a lava por frestas e vapor saindo dos vãos entre as rochas. 
+
+
+
+Priadus todo um perímetro formado por um ambiente simplesmente aterrorizante. Seja pelo aspecto que o transforma numa “selva abandonada”, com ar envelhecido e que transmitir a sensação de sofrimento e dor. A sensação é de estar num lugar cercado por espíritos perdidos. Sombras, neblina e a escuridão formada pelas árvores gigantes que escondem o Sol, tornam o local um dos mais desafiadores de todos os ciclos dos mundos. 
+Onde a neblina que esconde o solo, também esconde surpresas em forma de ataques de animais famintos, pântanos que engolem pessoas por inteiro e armadilhas fatais. 
+O clima de Priadus é sempre úmido. As nuvens enviam chuvas recorrentes, causando alagamentos e limitando as áreas secas apenas para as regiões montanhosas. Tudo fica pior ao final de todo um dia de batalha, o cenário ressignifica a essência do caos. Assim como no W1/C1 os corpos dos players mortos não desaparecem, eles apodrecem conforme o tempo passa e ali, deixados para trás, tornam-se alimentos dos jacarés e plantas carnívoras, enquanto são lentamente “engolidos” pelos pântanos lamacentos.
+Dinâmicas dos Perímetros /Ambientes e Cenários
+    • A Área Pantanosa: Uma zona alagada, cercada por um pântano sombrio, com árvores velhas, com partes apodrecidas e raízes expostas. Em algumas partes o pântano é tomado por uma neblina rasteira, que dificulta a visão do solo. Este é um ambiente que os jogadores podem explorar, subindo nas árvores e nas plataformas de observação, ora usadas pelos guardas florestais. Em grande parte, o pântano é tomado pela água negra, rasa, porém altamente perigosa. Podendo esconder armadilhas, poços profundos e répteis famintos. Apesar do ambiente inóspito, existem algumas placas de “cuidado”, que transmitem as estatísticas da batalha em tempo real. Corresponde a 2/8 de todo o perímetro do ambiente.
+
+    • O Bosque: Uma área cercada por árvores e vegetação de selva, com alguns pontos de clareiras, sendo a área de desembarque inicial dos jogadores, onde o trem descarrila. O cenário é dinâmico: em certas partes encontram-se pequenas montanhas e cavernas, que podem ser exploradas e se tornarem locais de emboscadas ou abrigo. Por outro lado, as regiões com mata fechada, apesar de serem locais mais desafiadores e de difícil acesso, é justamente onde aqueles mais experientes conseguem apresentar uma performance de jogo diferenciada. Corresponde a ⅜ de todo o perímetro do ambiente. 
+
+    • Área de Caça: Um espaço sombrio, de vegetação rasteira, tomada por arbustos e poucas árvores, em meio a esqueletos de animais e áreas irregulares, de terreno acidentado e erosões. Localizado na área central do perímetro, onde também fica o Templo Antigo da Tribo dos Duazhs. Entre os espaços existem áreas de observação de caça, com algumas plataformas, além de um lago, com alguns decks ao seu entorno e uma pequena marina com barcos abandonados. Corresponde a ⅜ de todo o perímetro do ambiente. 
+
+    • A Zona de Extração: Estes são espaços que atendem duas propostas: Extração de XP: Pequenos terminais espalhados pelo mapa onde os jogadores podem "salvar" parte das conquistas obtidas para serem transferidas para o seu inventário no “War’I”. Extração Final: O terminal do matadouro de caça abandonado, de onde, ao final da contagem do cronômetro, saíra o trem levando os sobreviventes.
+
+
+*Plus + (Vantagens Táticas):
+    • 3 Postos de Observação (Tree-Towers): Pontos elevados para Snipers com visão térmica para detectar inimigos no meio da folhagem.
+    • 5 Barcos de Patrulha Blindados: Equipados com metralhadoras .50 para navegar pelos rios poluídos que cortam a selva.
+    • 2 Laboratórios de Pesquisa: Contêm 15 "Estabilizadores de Essência" 
+(Kits Médicos de 50% a 100% de recuperação)
+    • Áreas de Camuflagem Natural, formada por zonas onde a vitalidade se recupera lentamente se o jogador permanecer imóvel e escondido.
+
+
+*Plus - (Perigos do Caos):
+    • Flora Carnívora, com plantas que prendem o jogador. 
+(causam -10% de vitalidade e exigindo o uso da faca para escapar)
+    • Neblina Alucinógena que reduz a visibilidade a quase zero por 1 minuto, invertendo os controles de direção (Efeito de Confusão)
+    • Ataques de jacarés famintos, contra aqueles que se arriscam na água. Causando ferimentos que geram sequelas de sangramento (-2% de vitalidade a cada 10 segundos)
+    • Ramificação de Esporos que causa dano contínuo 
+    • (-1% por segundo para quem estiver fora de áreas cobertas)
+*Na inatividade são atacados por uma nuvem de mosquitos que apontam pelos covardes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dinâmica de Jogo: "A Emboscada Verde"
+Seguindo o formato de partidas de 10 minutos , o Anel de Conflito (Ring) se fecha em direção ao centro de um templo antigo. Jogadores que não acompanharem a "corrida" (Run) serão consumidos pela neblina que carrega esporos tomados por toxinas.
+Dinâmica de Acesso ao Ring de Batalha (3 Zu - Entrada para o Ring/Batalha)
+Temos definido o veículo trêm, como sendo o meio de transporte para o acesso aos mundos. Dessa forma, definimos três formatos de “Zu” (Entrada para os Rings/Batalha), que serão apresentados através das seguintes dinâmicas:
+    • Zu 1 - W2/C2 - O trem muda de repente de trilho e o trilho logo acaba, batendo contra uma armação de ferro e parando bruscamente. Aqueles que estão com o cinto apertado não sofrem danos, enquanto os demais sofrem danos conforme o impacto nos locais que se encontram.
+    •  Zu 2 - W2/C2 - O trem é invadido por terroristas, eles são homens bombas e planejam explodir os vagões. Aqueles que saltam do trem não sofrem danos, os demais sofrem danos conforme o impacto da onda de choque da explosão.
+    • Zu 3 - W2/C2 - O trem atravessa uma densa neblina e o motorista acaba tendo um mal súbito, freando. Logo a neblina toma conta dos vagões, porém aos poucos o ar se torna irrespirável, trata-se de uma neblina tóxica e aqueles que estão com a máscara de oxigênio não sofrem danos, os demais conforme o tempo que permanecem expostos, até a neblina dispersar.
+
+
+
+
+TRANSMISSÃO DO DESCENTRALIZADOR
+"Marechal, Barburhen testa o estômago para a brutalidade, em Priadus será testada
+a sanidade mental diante do invisível … do desconhecido e da escuridão. Esqueça o concreto e a ferrugem;  aqui, o inimigo respira, cresce, se alimenta … vive. Nesta floresta, a visão é preciosa e a paranoia é a única constante. Ao misturarmos a neblina alucinógena com a escuridão perene dos carvalhos, retiramos a certeza do que é real. Ao duvidarmos se o vulto é um oponente ou um delírio químico da névoa. O silêncio precede um ataque tático ou a inexistência. Priadus não é apenas um campo de batalha, é um organismo digestivo. O pântano que traga lentamente os corpos apodrecidos dos caídos ensina a lição mais cruel de todas: a natureza do Khaaos não perdoa a hesitação. Quem sair vivo desta selva não será mais apenas um sobrevivente, terá se tornado, por pura necessidade, um animal de instintos aguçados, um verdadeiro predador no topo da cadeia alimentar."
+Ckesalth - O Deserto das Almas Esquecidas W3/C3
+O Mundo 3 do Ciclo 3 (W3/C3) no passado fora um ponto turístico altamente disputado pela nobreza. Imensas lagoas azuis surgiam em meio às dunas e a areia branca, rodeada por palmeiras, fora no passado o cenário ideal para se viver os melhores momentos da vida. Hoje um ambiente árido, pós-guerra, apresentado por uma imagem caótica e sem cor, num cenário tomado por moradias rústicas, palmeiras derrubadas, em  meio às dunas de areia acinzentada e poços de petróleo que vazaram para as lagoas, poluindo a água e encontram-se incendiados, espalhando muita fumaça por todo o local. 
+
+
+
+Ckesalth é um local estratégico e que implica grande cautela para os próximos 7 dias de batalha intensa e que dia após dia vai se tornando um ambiente ainda mais perigoso e nocivo. A fumaça faz com que o ar vá se tornando tóxico, as lagoas tomadas pelos vazamentos de petróleo, estão incendiadas e começam a tomar todo o deserto, deixando espaços estreitos de areia entre um lado e outro, onde as chamas consomem tudo à sua volta. Quando as batalhas diárias são encerradas após 12 horas de confronto, o cenário torna-se simplesmente devastador, afinal assim como no W1/C1 os corpos dos players mortos não desaparecem, eles apodrecem conforme o tempo passa e ali, deixados para trás, tornam-se alimentos dos abutres e sendo “consumidos” pela areia movediça.
+
+Dinâmicas dos Perímetros /Ambientes e Cenários
+    • Resort Abandonado: Um verdadeiro resort, cercado por pequenas construções rústicas, que abrigava as acomodações do antigo hotel, ao lado de um pequeno vilarejo. Sendo um local construído de forma estratégica, em meio às dunas e com um grande lago ao centro, hoje tomado pelo óleo negro. As acomodações, ainda que num ambiente abandonado, transmitem o clima de poder e sofisticação do resort, com jardins tomados por palmeiras e cercado por uma grande muralha de pedra, que conflita com as ruínas do pobre vilarejo. Por toda a sua extensão, existem algumas placas que transmitem as estatísticas da batalha em tempo real. Corresponde a 3/8 de todo o perímetro do ambiente.
+
+    • Vilarejo dos Beduínos: Do lado oposto ao resort e próximo às grandes montanhas do deserto, está o vilarejo dos nativos, uma área com características rurais, que traz alguns campos de cultivo e pastagens para as cabras. O cenário é dinâmico: em certas partes o deserto contrasta com as pastagens, tomadas por uma vegetação rasteira e queimada pelo Sol … pelo clima desértico e seco. Onde também estão as ruínas das velhas construções, divididas em moradias, celeiros e cilos, que podem ser exploradas e se tornarem locais de emboscadas para os jogadores com visão estratégica. Corresponde a 2/8  de todo o perímetro do ambiente. 
+
+    • Refinaria de Petróleo: O sinônimo do caos, uma área industrial que foi transformada em cenário de guerra, trazendo uma refinaria destruída por fortes explosões, contracenando com armações de ferro retorcido, barris e tanques para o armazenamento de combustíveis em chamas, cercados por containers e galpões enferrujados. O espaço é tomado por crateras e oleodutos que se estendem por todo o lugar. Localizado na área central do perímetro, onde também se encontram as minas de carvão, que formam um verdadeiro labirinto de túneis estreitos, perdidos em meio a escuridão. Corresponde a ⅜ de todo o perímetro do ambiente. 
+
+    • A Zona de Extração: Estes são espaços que atendem duas propostas: Extração de XP: Pequenos terminais espalhados pelo mapa onde os jogadores podem "salvar" parte das conquistas obtidas para serem transferidas para o seu inventário no “War’I”. Extração Final: O setor de expedição da refinaria, de onde, ao final da contagem do cronômetro, saíra o trem levando os sobreviventes.
+
+
+
+
+
+*Plus + (Vantagens Táticas): 
+    • 2 Bunkers  (de 2 a 3 Minutos de Proteção)
+    • 5 Humvee Blindados equipados com Metralhadora .50 e  25 munições 
+(alcance de 1% a 100% da Vitalidade de acordo com o distanciamento) 
+    • 10 Pontos de Estrutura de Sniper 
+(com 2 a 3 munições de tiros precisos entre 10% a 100% Vitalidade no Head Shot)
+    • 2 Humvee de Socorro fora de circulação 
+(20 Kit de Primeiros Socorros de 25% a 100% de Recuperação da Vitalidade) 
+    • 3 Caminhões com cargas saqueadas  (10 Coletes a Prova de Balas +100% Vitalidade - Head Shot e 10 Coletes a Prova de Balas +50% Vitalidade - Head Shot)
+    • Caminhão de Suprimentos, incendiado, com caveiras de soldados mortos, portando armas (2 Pistolas 9MM e 10 facas)
+    • 1 Batalhão do Exército (2 Granadas, 5 Minas Terrestres e 1 .50 fixa)
+
+
+*Plus -  (Perigos do Caos): 
+    • Cobras e Escorpiões Peçonhentos que atacam quem se aproxima 
+(de -2% a -15% da Vitalidade)
+    • Areia Movediça que suga os jogadores para seu fundo (tempo até -100% vitalidade)
+    • Fumaça Tóxica que surge sem aviso e toma todo o perímetro em questão de segundos. (tempo entre -20% e -50% da Vitalidade)
+    • Exposição Constante ao Sol ardente (tempo entre -10% a -25% da Vitalidade)
+    • Desidratação (Tempo entre -5% a 30% da Vitalidade)
+*A inatividade gera “Nuvem de Gafanhotos” ou “Gafanhotos dedo-duro” que rodeiam os locais onde os players estão escondidos ou se afastando das batalhas. 
+      
+
+
+
+
+
+
+
+
+
+Dinâmica de Jogo: "Assassino Silencioso"
+Seguindo o formato de partidas de 10 minutos , quando o cronômetro chega nos 5 minutos, o Anel de Conflito (Ring) começa a se fechar em direção a Vila Sombria, um vilarejo com construções rústicas. O espaço diminui a cada minuto, fazendo com que os Jogadores que não acompanharem a "corrida" (Run), venham a ser consumidos pela Fumaça Tóxica, vinda dos poços de petróleo incendiados.
+Dinâmica de Acesso ao Ring de Batalha (3 Zu - Entrada para o Ring/Batalha)
+Temos definido o veículo trêm, como sendo o meio de transporte para o acesso aos mundos. Dessa forma, definimos três formatos de “Zu” (Entrada para os Rings/Batalha), que serão apresentados através das seguintes dinâmicas:
+    • Zu 1 - W3/C3 - O trem passa por uma tempestade de areia, que acaba formando um amontoado de areia sobre o trilho, fazendo com que ele pare bruscamente. Aqueles que estão com o cinto apertado não sofrem danos, enquanto os demais sofrem danos conforme o impacto nos locais que se encontram.
+    •  Zu 2 - W3/C3 - O trem passa por um túnel e no meio do túnel ele acaba parando. Logo atrás é possível ver a explosão do trem que seguia pelo trilho ao lado, no sentido oposto. Aqueles que saltam e correm para fora do túnel não sofrem danos, os demais sofrem danos conforme a tempo exposto às chamas da explosão. 
+    • Zu 3 - W3/C3 - O trem é atingido por uma forte explosão que arremessou um caminhão tanque em chamas nos trilhos, aos poucos a fumaça negra invade os vagões e o ar se torna irrespirável. Aqueles que estão com a máscara de oxigênio não sofrem danos, os demais conforme o tempo que permanecem expostos.
+
+TRANSMISSÃO DO DESCENTRALIZADOR
+"Marechal, deixamos no esquecimento a escuridão primitiva de Priadus, 
+mas apenas para lançá-los no inferno incandescente da realidade que agora presenciamos. Ckesalth pode até enganar os olhos, mas não é apenas um campo de batalha;  é uma lição física e psicológica sobre a fragilidade da vaidade humana. 
+Este deserto, outrora um paraíso intocável, serve agora para ensinar que,
+diante do Khaaos, o status anterior não vale nada. Aqui, a batalha é uma 
+coalizão do primitivo com o contemporâneo: a luta contra a asfixia e a exaustão 
+dos sentidos. Substituímos a água cristalina pelo óleo negro em chamas e  o ar puro 
+pela fumaça tóxica que fecha os pulmões dia após dia. A estratégia é cruelmente simples: o ambiente em extinção. Com os lagos de petróleo incendiados avançando e o espaço seguro tornando-se escasso, forçamos o confronto... não por bravura, mas pela pura necessidade de ar respirável. Aqueles que caírem aqui não terão sequer o privilégio 
+de um túmulo; serão combustível para as chamas ou tragados pelas areias do esquecimento. Estamos filtrando os resilientes, Marechal. Apenas os capazes de marchar através do fogo e compartilhar das cinzas, merecem o que vem a seguir … as glórias."
+Arukheea - A Ilha dos Gritos Calados W4/C4
+O Mundo 4 do Ciclo 4 (W4/C4) distante do continente, desconhecido do mundo e abandonado pelo tempo, outrora a ilha foi refúgio de piratas e criminosos, que seguiam para lá, de onde, por motivos desconhecidos, nunca mais regressaram. À distância, a Ilha “GriCa”, de onde os velhos marujos juravam ouvir gritos de socorro, nunca atendidos, era um lugar admirável. Uma ilha paradisíaca, com palmeiras, areia branca e o mar azul, porém quando vista da praia, o lugar mudava completamente, bosques sombrios e cavernas escuras. Por toda a costa haviam chalés de palha em ruínas ou destruídos pelo fogo e na marina, onde ficava a velha fábrica de óleo de baleia, só restava a sua estrutura velha e enferrujada e na área central a conhecida “Prisão do Sol da Noite”.  
+
+
+
+Arukheea, um local onde ninguém gostaria de estar e que implica visão estratégica para os últimos 7 dias de batalha e que dia após dia vai se tornando o caos vivo. A ilha é rodeada pelo mar que abriga seres aterrorizantes, enquanto um tsunami se aproxima destruindo tudo que encontra pelo caminho. Quando as batalhas diárias são encerradas após 12 horas de confronto, o cenário torna-se simplesmente devastador, afinal assim como no W1/C1 os corpos dos players mortos não desaparecem, eles apodrecem conforme o tempo passa e ali, deixados para trás, tornam-se alimentos dos tubarões e aves carnicentas.
+Dinâmicas dos Perímetros /Ambientes e Cenários
+    • Bosque dos Perdidos: O que começa com um bosque de palmeiras, termina com uma mata fechada e cheia de perigos. Tomada por grutas e cavernas, que são os únicos caminhos que levam até a parte superior do penhasco. O caminho entre a mata é um verdadeiro labirinto, que condiciona os players a andarem em círculo, rodeando toda a ilha e não chegando a lugar algum. Corresponde a 4/8  de todo o perímetro do ambiente, circulando por toda a ilha. 
+
+    • Prisão do Sol da Noite: Na região central, acima do penhasco, encontra-se entre os campos de cultivo e a vila dos nativos, a prisão mais temida de todo o mundo. A Prisão do Sol da Noite, fora por anos um lugar assombrado pelo medo e o caos, de onde nenhum prisioneiro jamais saiu e o farol no centro da prisão, utilizado para que as embarcações avistassem a ilha, também servia de punição para os prisioneiros que ficavam 24 horas por dia sendo iluminados. Durante o dia sob a luz do Sol e a noite a luz do farol que nunca desligava. O cenário é tomado pela vila abandonada e a prisão em ruínas, com celas de grades enferrujadas, pátios esburacados com fendas por toda a sua extensão e muralhas em torno de todo o perímetro, permitindo que jogadores mais experientes, se posicionem para ataques precisos e fatais. Corresponde a 3/8  de todo o perímetro do ambiente. 
+
+    • Expedição da Fábrica e Cemitério das Baleias: No lado Norte da ilha, fica o setor de expedição da fábrica de óleo de baleia, com uma pequena marina com um deck comprido, com barcos naufragados e/ou encalhados nos bancos de areia, com barris de óleo por todos os cantos e chamas, trazendo a refinaria destruída pelo tempo e tomada por uma densa fumaça, contracenando com armações de ferro e madeira apodrecida, cercados por um cemitério de baleia, tomado de esqueletos e carcaças gigantes. Corresponde a 1/8  de todo o perímetro do ambiente. 
+
+    • A Zona de Extração: Estes são espaços que atendem duas propostas: Extração de XP: Pequenos terminais espalhados pelo mapa onde os jogadores podem "salvar" parte das conquistas obtidas para serem transferidas para o seu inventário no “War’I”. Extração Final: A ponte que leva até a prisão, de onde, ao final da contagem do cronômetro, sairá o trem levando os sobreviventes. 
+*Extração do(a) Vencedor(a): O heliporto da prisão, em cima da torre central, de onde ao final do último dia de batalha, será levado o sobrevivente 
+
+
+
+
+
+
+*Plus + (Vantagens Táticas): 
+    • 2 Bunkers (de 2 a 3 Minutos de Proteção)
+    • 1 Porta Avião equipado com Metralhadora .50 antiaérea com 25 munições e canhões lança míssil com 2 mísseis. 
+(alcance de 1% a 100% da Vitalidade de acordo com o distanciamento) 
+    • 7 Pontos de Estrutura de Sniper 
+(com Rifles Táticos e 2 a 3 munições de tiros precisos entre 10% a 100% Vitalidade no Head Shot)
+    • 5 Lanchas Ambulância  
+(20 Kit de Primeiros Socorros de 25% a 100% de Recuperação da Vitalidade) 
+    • 3 Embarcações de Containers - encalhadas  (10 Coletes a Prova de Balas +100% Vitalidade - Head Shot + 10 Coletes a Prova de Balas +50% Vitalidade - Head Shot + 5 Capacetes N2)
+    • Embarcação da Guarda Costeira (5 Pistolas 9MM + 10 caixas x 15 Munição e 10 facas)
+    • Capitania dos Portos abandonada (10 Granadas, 10 Minas Terrestres, uma .50 fixa no telhado + 10 munições e um lançador de morteiros  + 3 morteiros)
+
+
+*Plus -  (Perigos do Caos): 
+    • Tubarão Branco (ataca aqueles que ousam andar próximo do mar de -10% a -50% da Vitalidade)
+    • Onda Gigante (afogamento por tempo até -100% vitalidade)
+    • Ataque de Morcegos (proximidade ou dentro das cavernas tempo entre -5% e -15% da Vitalidade)
+    • Presos Perigosos que se libertam na Delegacia (ataque de 2% a 7% da Vitalidade)
+    • Armadilhas nas Lojas de Arma (entre 5% e 20% da Vitalidade)
+    • Minas Terrestres escondidas no chão por todo o caminho do Batalhão do Exército (entre 20% e 70% da Vitalidade)
+*A inatividade gera “Ataque de Gaivotas” ou “Gaivotas dedo-duro” que rodeiam os locais onde os players estão escondidos ou se afastando das batalhas. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dinâmica de Jogo: "Tsunami"
+Seguindo o formato de partidas de 10 minutos , o Anel de Conflito (Ring) se fecha em direção a “Prisão do Sol da Noite”, uma construção cujas paredes resistem ao tempo.. Jogadores que não acompanharem a "corrida" (Run) serão levados pelas ondas, servindo de alimento para os tubarões famintos que rodeiam toda a costa  da ilha.
+Dinâmica de Acesso ao Ring de Batalha (3 Zu - Entrada para o Ring/Batalha)
+Temos definido o veículo trêm, como sendo o meio de transporte para o acesso aos mundos. Na ilha, o trem seguirá por uma ponte extensa, saindo do continente. Dessa forma, definimos três formatos de “Zu” (Entrada para os Rings/Batalha), que serão apresentados através das seguintes dinâmicas:
+    • Zu 1 - W4/C4 - O trem sai do continente e chegando próximo da ilha, já avistando o penhasco, o trilho desmorona e o trem cai sentido o bosque de palmeiras e a areia da praia.. Aqueles que estão com o cinto apertado não sofrem danos, enquanto os demais sofrem danos conforme o impacto nos locais que se encontram.
+    •  Zu 2 - W4/C4 - Vindo do continente, o trem segue pelos trilhos suspensos, até que um trem tanque surge vindo na sua direção. A colisão causa uma explosão e aqueles que saltam no mar não sofrem danos, os demais sofrem danos conforme a tempo exposto às chamas da explosão. 
+    • Zu 3 - W4/C4 - Drones lançam bombas de gás dentro dos vagões, tornando o ar irrespirável. Aqueles que estão com a máscara de oxigênio não sofrem danos, os demais conforme o tempo que permanecem expostos.
+
+TRANSMISSÃO DO DESCENTRALIZADOR
+"Marechal, desde o início o teste não foi apenas de sobrevivência, foi de superação. Barburhen apresentou-nos ao caos, a escuridão de Priadus alimentou a busca pela luz, enquanto o fogo de Ckesalth forjou a resiliência da alma e do coração. Todo o passado e tudo o que passamos, nos trouxe até Arukheea, que testará a integridade do ser no isolamento absoluto. Deixamos o cinza e as cinzas, o lado negro e as sombras, assim como as dunas e as dúvidas, tudo ficou para trás, para lançá-los numa armadilha, onde a beleza é apenas a máscara da morte. Esta ilha é o paradoxo final: a claustrofobia em céu aberto. Aqui, a tortura não é apenas o combate, é a privação do refúgio. Na 'Prisão do Sol da Noite', nós roubamos deles o escuro, a única proteção natural contra a própria loucura. Sob a luz perpétua, não há onde se esconder, nem dos inimigos, nem dos próprios demônios. A estratégia aqui é a pressão hidráulica. O mar não é uma rota de fuga, é o carcereiro. Com o Tsunami se aproximando no horizonte, o tempo não está apenas correndo ... ele está inundando. Não estamos mais buscando soldados, Marechal. Estamos buscando o único sobrevivente capaz de ignorar o desespero alheio para garantir o seu lugar ao topo. Aqueles que não subirem naquele helicóptero não serão apenas derrotados; serão, eternamente, os gritos que o oceano abafou... gritos calados que ninguém jamais ouvirá."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1° Ciclo - O Mundo da Destruição - CONVOCAÇÃO
+- Inscritos > Abertura das Inscrições de Batalha (Convocação). Iniciada a “Operação Khaaos” são abertas as convocações e os inscritos podem se "voluntariar", sendo que as batalhas/ciclos contam entre 50 até 100 jogadores por vez, abrindo as inscrições e encerrando na centésima convocação. 
+
+1° Ciclo - O Mundo da Destruição
+- As 10 primeiras batalhas do acontecem no Núcleo Urbano. Uma região desabitada, devastada por epidemias, guerras e uma chuva de meteoros. O cenário perfeito para as primeiras 10 batalhas do primeiro dia. 
+*Regras - As primeiras 10 batalhas são regidas pelo Regimento de Jheas:
+- Todos os Participantes podem escolher entre 3 itens de sobrevivência:
+   1 - Água
+   2 - Kit de Recuperação (Primeiros Socorros)
+   3 - Faca
+- Todos os participantes tem o direito a requerer a "Pilhagem", ao derrotar um adversário, ninguém mais. Ficando exclusivamente com todos os seus itens, assim como com as suas "construções".  
+-  
+- Derrotados > Todos os derrotados na primeira batalha, poderão se inscrever para retornar no 7º Nível - O Esquadrão Death (Regimento No Mercy), porém, todos com a configuração do 1º Nível. 
+- Vencedores >    
+O Mundo de Khaoos. Um mundo dividido em três ambientes
+
+
+
+  
+Ciclo 1: 
+O Mundo da Destruição
+Um ambiente Urbano, pós-guerra, apresentado por uma imagem apocalíptica, num cenário tomado por construções inacabadas, florestas devastadas, rios poluídos, restos de animais e muita sujeira, em meio às cidades destruídas. 
+
+*Plus + : 
+    • 2 Bunkers (de 2 a 5 Minutos de Proteção)
+    • 5 Tanques de Guerra (2 munições explosivas de longo alcance de 1% a 100% da Vitalidade de acordo com o distanciamento) 
+    • 10 Pontos de Sniper (com 2 a 3 munições de tiros precisos entre 10% a 100% no Head Shot da Vitalidade
+    • 2 Hospitais (20 Kit de Primeiros Socorros de 25% a 100% de Recuperação da Vitalidade)
+    • 3 Delegacias (20 Coletes a Prova de Balas +100% Vitalidade - Head Shot)
+    • 1 Loja de Armas (2 Pistolas 9MM e 10 facas) 
+    • 1 Batalhão do Exército (2 Granadas, 5 Minas Terrestres e 1 .50 fixa)
+    • 
+*Plus - : 
+    • Cães Raivosos, Chuva Ácida e Ataque de Ratos (de -2% a -15% da Vitalidade)
+    • 8 Tanques com armadilha de timer (proximidade até -100% vitalidade)
+    • Estradas com Rachaduras que não suportam peso (Tanques e Carros) e cuja queda causa danos (entre -20% e -50% da Vitalidade em quedas)
+    • Veículos sem freio (Colisão de -10% a -25% da Vitalidade)
+    • Pontes que desabam (Queda de -5% a 30% da Vitalidade)
+    • Presos Perigosos que se libertam na Delegacia (ataque de 2% a 7% da Vitalidade)
+    • Armadilhas nas Lojas de Arma (entre 5% e 20% da Vitalidade)
+    • Minas Terrestres escondidas no chão por todo o caminho do Batalhão do Exército (entre 20% e 70% da Vitalidade) 
+                 
+                 
+
+
+1º Ciclo /1º Semana O Mundo da Destruição
+Por dia até 20% dos Jogadores Sobreviventes aos 10 Minutos são “Vencedores”
+(Decisão Nível de Vitalidade ou Aleatória)
+- Prêmio KravMaga Nível 2
++ Faca
+
+*Criar Mensagem de Misericórdia. Caro sobrevivente. Vamos desconsiderar a sua covardia ou falta de habilidade apresentada na sua investida. Assim, sua vida será poupada. Aguarde sua nova convocação para as próximas batalhas. Mas não se acostume, na KR não há espaço para covardes e não há prêmio de consolação. Agora é lamber as suas feridas e se preparar para o próximo destacamento. E não esqueça de Verificar a sua bolsa de acessórios.  
+
+1° Ciclo - O Mundo da Destruição - CONVOCAÇÃO
+- Inscritos > Abertura das Inscrições de Batalha (Convocação). Iniciada a “Operação Khaaos” são abertas as convocações e os inscritos podem se "voluntariar", sendo que as batalhas/ciclos contam entre 50 até 100 jogadores por vez, abrindo as inscrições e encerrando na centésima convocação. 
+
+1° Ciclo - O Mundo da Destruição
+- As 10 primeiras batalhas do acontecem no Núcleo Urbano. Uma região desabitada, devastada por epidemias, guerras e uma chuva de meteoros. O cenário perfeito para as primeiras 10 batalhas do primeiro dia. 
+*Regras - As primeiras 10 batalhas são regidas pelo Regimento de Jheas:
+- Todos os Participantes podem escolher entre 3 itens de sobrevivência:
+   1 - Água
+   2 - Kit de Recuperação (Primeiros Socorros)
+   3 - Faca
+- Todos os participantes tem o direito a requerer a "Pilhagem", ao derrotar um adversário, ninguém mais. Ficando exclusivamente com todos os seus itens, assim como com as suas "construções".  
+-  
+- Derrotados > Todos os derrotados na primeira batalha, poderão se inscrever para retornar no 7º Nível - O Esquadrão Death (Regimento No Mercy), porém, todos com a configuração do 1º Nível. 
+- Vencedores >    
+O Mundo de Khaoos. Um mundo dividido em três ambientes.
+
+Narrativa e Lore: 1º Ciclo - O Mundo da Destruição
+O primeiro contato do Zheers com o Caos é brutal e primitivo.
+    • O Cenário (Núcleo Urbano): Uma metrópole fantasmagórica onde a natureza começou a consumir o concreto. O céu é permanentemente cinzento devido às Chuvas de Meteoros constantes, que funcionam como o "fechamento do anel": áreas atingidas por meteoros tornam-se zonas de radiação mortal.
+    • As Epidemias: O ar contém esporos de uma guerra biológica antiga. Se o jogador ficar muito tempo sem uma máscara de gás (encontrada em loots), sua estamina diminui drasticamente, forçando-o a se mover.
+    • Regimento de Jheas (A Escolha Crucial): Ao desembarcar do trem de convocação, você não tem mochila. Você deve estender a mão e escolher apenas um:
+        1. Água: Garante 20% a mais de fôlego e impede a alucinação por sede (que borra a visão).
+        2. Kit de Recuperação: Única forma de estancar sangramentos pesados no 1º Ciclo.
+        3. Faca: Para os agressivos. É a única arma garantida, pois as armas de fogo no 1º Ciclo são raras, velhas e costumam travar.
+
+C) Sistema de Clãs: As Legiões do Khaaos
+Para enfrentar o Marechal Henricks, a união é uma necessidade, não uma escolha.
+    1. A Estrutura da Legião:
+        ◦ Um Clã só pode ser oficializado se for liderado por um OverLord ou Mazkor.
+        ◦ O Pacto de Divisão: O sistema permite que o OverLord distribua "missões" para seus Zheers (ex: "Protejam o setor sul enquanto eu busco a Caixa Dourada").
+    2. O Motim da Classe Máxima:
+        ◦ Durante o Último Ciclo, se um Clã tiver pelo menos 5 membros vivos, eles podem ativar o Protocolo de Motim.
+        ◦ Isso permite que o dano de todos os membros seja somado contra o Marechal, mas com uma condição: apenas um deles poderá ser o vencedor final. Isso cria uma tensão interna — eles precisam trabalhar juntos para derrubar o Boss, sabendo que terão que se matar logo em seguida.
+    3. Vantagem de Clã:
+        ◦ Legiões que controlam Zonas Vermelhas por mais de 24h recebem o "Suporte da Resistência", que revela a posição da Embaixadora Uryan 30 segundos antes dos jogadores solitários.
+
+
+
+
+
+
+
+
+
+Ciclo 2
+- Deserto do Sofrimento dos Bons
+Um ambiente árido, pós-guerra, apresentado por uma imagem apocalíptica, num cenário tomado por moradias rústicas, palmeiras derrubadas, em  meio a dunas de areia e poços de petróleo incendiados, que espalham muita fumaça. Rodeados por milhares de caveiras humanas.
+
+*Plus + : 
+    • 2 Bunkers
+    • 5 Humvee Blindados equipados com Metralhadora .50 e  25 munições (alcance de 1% a 100% da Vitalidade de acordo com o distanciamento) 
+    • 10 Pontos de Sniper (com 2 a 3 munições de tiros precisos entre 10% a 100% Vitalidade no Head Shot)
+    • 2 Humvee de Socorro fora de circulação (20 Kit de Primeiros Socorros de 25% a 100% de Recuperação da Vitalidade) 
+    • 3 Caminhões com cargas saqueadas  (10 Coletes a Prova de Balas +100% Vitalidade - Head Shot e 10 Coletes a Prova de Balas +50% Vitalidade - Head Shot)
+    • Caminhão Militar incendiado, com caveiras de soldados mortos, portando Armas (2 Pistolas 9MM e 10 facas)
+    • 1 Batalhão do Exército (2 Granadas, 5 Minas Terrestres e 1 .50 fixa)
+    • 
+*Plus - : 
+    • Cobras e Escorpiões Peçonhentos (de -2% a -15% da Vitalidade)
+    • Areia Movediça (tempo até -100% vitalidade)
+    • Fumaça Tóxica (tempo entre -20% e -50% da Vitalidade)
+    • Exposição Constante ao Sol (tempo entre -10% a -25% da Vitalidade)
+    • Desidratação (Tempo entre -5% a 30% da Vitalidade)
+      
+
+
+
+
+
+
+
